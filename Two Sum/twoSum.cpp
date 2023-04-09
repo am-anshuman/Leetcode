@@ -1,3 +1,6 @@
+
+// O(n^2) solution 
+
 #include<bits/stdc++.h>
 using namespace std;
 
